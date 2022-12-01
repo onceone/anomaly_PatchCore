@@ -1,4 +1,19 @@
 # PatchCore anomaly detection
+
+https://github.com/onceone/anomaly_PatchCore
+
+---
+2022.11.24
+
+On the basis of  https://github.com/hcw-00/PatchCore_anomaly_detection,
+the code has been formatted and added some comments
+
+2022.12.1
+
+    update
+
+---
+
 Unofficial implementation of PatchCore(new SOTA) anomaly detection model
 
 
